@@ -14,3 +14,10 @@ git status
 
 git diff readme.txt
 比较文件差异
+
+git log
+查看历史记录
+
+git reset --hard HEAD^
+回退至上一个版本
+
