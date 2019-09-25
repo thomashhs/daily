@@ -8,3 +8,9 @@ git add readme.txt
 
 git commit -m "wrote a readme file"
 提交文件至仓库并备注
+
+git status
+查看当前仓库状态
+
+git diff readme.txt
+比较文件差异
