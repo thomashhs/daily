@@ -79,3 +79,4 @@ INSTALLED_APPS = [
 (1)python manage.py makemigrations
 (2)python manage.py migrate
 
+Êý¾Ý¿â²Ù×÷£º
