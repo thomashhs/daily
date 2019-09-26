@@ -44,6 +44,9 @@ git push origin master
 git clone git@github.com:thomashhs/daily.git
 从远程库clone至本地
 
+git pull origin master
+从远程库拉回到本地
+
 20190926
 参考网址：https://www.zmrenwu.com/courses/django-blog-tutorial/materials/1/
 Django博客教程回顾
@@ -78,4 +81,6 @@ INSTALLED_APPS = [
 4、迁移数据库
 (1)python manage.py makemigrations
 (2)python manage.py migrate
+
+
 
