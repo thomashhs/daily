@@ -82,5 +82,14 @@ INSTALLED_APPS = [
 (1)python manage.py makemigrations
 (2)python manage.py migrate
 
+20190928
+1、全部完成Django博客基本教程内容；
+2、在博客中加入注册、登录流程；
+3、下一步需要区分已登录用户和未登录用户；
+
+20190929
+1、舍弃原始注册登录流程，改用all-auth模块快速搭建；
+参考网址：https://www.cnblogs.com/crime/p/11025823.html
+
 
 
